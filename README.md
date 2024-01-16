@@ -18,7 +18,7 @@
 - Architecture
   - MVVM Architecture
 - [Retrofit2](https://github.com/square/retrofit): Construct the REST APIs and paging network data.
-- [Coil](https://github.com/coil-kt/coil): 
+- [Coil](https://github.com/coil-kt/coil) 
 
 
 ## Architecture
