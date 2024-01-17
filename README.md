@@ -20,6 +20,14 @@
 - [Retrofit2](https://github.com/square/retrofit): Construct the REST APIs and paging network data.
 - [Coil](https://github.com/coil-kt/coil) 
 
+## Screenshots  
+  <div style="display: flex; width: 100%">
+  <img src="https://github.com/pedroabreudev/PokeCompose/blob/master/Screenshots/PokeCompose%201.jpg?raw=true" width="19%"/>
+  <img src="https://github.com/pedroabreudev/PokeCompose/blob/master/Screenshots/PokeCompose%202.jpg?raw=true" width="19%"/>
+  <img src="https://github.com/pedroabreudev/PokeCompose/blob/master/Screenshots/PokeCompose%203.jpg?raw=true" width="19%"/>
+  <img src="https://github.com/pedroabreudev/PokeCompose/blob/master/Screenshots/PokeCompose%204.jpg?raw=true" width="19%"/>
+  <img src="https://github.com/pedroabreudev/PokeCompose/blob/master/Screenshots/PokeCompose%205.jpg?raw=true" width="19%"/>
+  </div>
 
 ## Architecture
 **Pokedex** is based on the MVVM architecture and the Repository pattern, which follows the [Google's official architecture guidance](https://developer.android.com/topic/architecture).
