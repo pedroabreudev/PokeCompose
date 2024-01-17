@@ -4,9 +4,13 @@
   A modern Pokedex Android app based on development with Jetpack Compose, Hilt, Coroutines, Flow, Jetpack (ViewModel), and Material Design using MVVM architecture.
 </p>
 
-<p>
-  
-</p>
+
+## 🔗 Google Play Store Link
+
+PokéFacts is now released on the Google Play Store. Download it by clicking the banner below!
+
+[![](images/google-play-badge.png)](https://linkhere)
+
 
 ## Tech stack & Open-source libraries
 - Minimum SDK level 24
