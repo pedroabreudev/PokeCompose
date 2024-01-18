@@ -13,3 +13,6 @@
 .externalNativeBuild
 .cxx
 local.properties
+/app/release/app-release.aab
+/store/pokecompose_app_key_store
+/private_key.pepk
