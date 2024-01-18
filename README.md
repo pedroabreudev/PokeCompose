@@ -7,9 +7,9 @@
 
 ## 🔗 Google Play Store Link
 
-PokéFacts is now released on the Google Play Store. Download it by clicking the banner below!
+<!-- PokéFacts is now released on the Google Play Store. Download it by clicking the banner below!
 
-[![](images/google-play-badge.png)](https://linkhere)
+[![](images/google-play-badge.png)](https://linkhere) -->
 
 
 ## Tech stack & Open-source libraries
